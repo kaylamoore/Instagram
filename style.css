@@ -10,5 +10,6 @@ header {
 		width: 25%;
 		display: inline-block;
 		margin-left: -3px;
+		text-align: center;
 	}
 }
