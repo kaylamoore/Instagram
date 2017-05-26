@@ -32,4 +32,19 @@ a:hover {
 	background-color: pink;
 }
 
+.container {
+	background-color: #FAFAFA;
+	padding-top: 50px;
+	position: absolute;
+	top: 50px;
+	bottom: 0;
+	width: 100%;
+}
 
+.card{
+	background-color: #FFF;
+	margin: 0 auto;
+	width: 500px;
+	height: 500px;
+	border: 1px solid #CCC;
+}
