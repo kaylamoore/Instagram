@@ -17,7 +17,12 @@ a {
 		text-align: center;
 		padding: 12px;
 }
+
 .fa{
 	color: black;
 	font-size: 25px;
+}
+
+a:hover {
+	background-color: pink;
 }
