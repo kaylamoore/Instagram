@@ -6,4 +6,9 @@ body {
 
 header {
 	background-color: #FAFAFA;
+	a {
+		width: 25%;
+		display: inline-block;
+		margin-left: -3px;
+	}
 }
